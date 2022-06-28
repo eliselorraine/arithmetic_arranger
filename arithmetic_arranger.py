@@ -60,8 +60,3 @@ def arithmetic_arranger(problems, show_answer=False):
 
     return final
             
-        
-
-    # print(splitp[0], newLine, splitp[1], splitp[2], newLine, hzLine )
-
-    # return arranged_problems
